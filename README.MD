@@ -17,7 +17,7 @@ This is an E-commerce web application built on MERN stack (MongoDB, Express, Rea
 ## Features
 
 - User authentication
-- Product browsing and search functionality
+- Product browsing 
 - Cart management (add, remove, update quantity)
 - Wishlist management
 - Razorpay payment gateway integration  
