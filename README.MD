@@ -1,13 +1,28 @@
+# Project Name: MERN Stack E-commerce App with Razorpay Payment Gateway
 
-## Getting Started
+This is an E-commerce web application built on MERN stack (MongoDB, Express, React and Node.js) with Razorpay payment gateway integration. The application allows users to browse and purchase products, add them to cart, manage their wishlist, and make secure payments using Razorpay. The app also features animations for a better user experience.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Technologies Used
 
-### Prerequisites
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- Razorpay Payment Gateway
+- Bootstrap
+- CSS
+- HTML
+- JavaScript
 
-- Node.js 
-- MongoDB 
-- Razorpay Account (for payment gateway integration) 
+## Features
+
+- User authentication
+- Product browsing and search functionality
+- Cart management (add, remove, update quantity)
+- Wishlist management
+- Razorpay payment gateway integration  
+- Animations for better user experience
+
 
 ### Installing
 
